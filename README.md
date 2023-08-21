@@ -183,10 +183,23 @@ git checkout HEAD -- a.py
 
 ## Branch and Merge
 
-**TODO**: This section is free-form.  Create 4 numbered items for common branch-and-merge tasks you would like to remember and show the git command to do each one. (You are write *more* than 4 if you want.)
-
-
-
+1.Deleting a Local Branch:
+```
+git branch -d branch-name
+```
+2.Rebasing a Branch:
+```
+git checkout feature-branch
+git rebase main
+```
+3.Comparing Branches:
+```
+git diff branch1..branch2
+```
+4.Stashing Changes:
+```
+git stash
+```
 ## Favorites
 
 
