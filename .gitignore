@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+virtualenv/
+/.venv/
+
+# Local development settings
+*.sqlite3
+*.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Editor-specific backup files
+*~
+*.swp
+*.swo
+
+# Logs and output from testing frameworks
+*.log
+test-reports/
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+__pycache__/test_*.py
+__pycache__/test_*.pyc
+
+# MacOS-specific files
+.DS_Store
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Python notebooks
+.ipynb_checkpoints/
+
+# Jupyter Notebook temporary files
+.jupyter/
+
+# Environment variable files
+.env
+.env.*
+
+# Compiled extensions
+*.pyd
+*.dll
+
+# Compiled executables
+*.exe
+*.out
+*.com
+*.o
+*.a
+*.dll
+*.so
+*.pyc
+*.pyd
+*.class
+
+# Various
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.log.*
