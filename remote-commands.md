@@ -19,7 +19,6 @@
    fatal:  The current branch dev-foo has no upstream branch. 
    ```
    ```
-   Explain this error.
    the branch you're currently on ("dev-foo") does not have an associated 
    upstream branch on the remote repository. An upstream branch is a remote 
    branch that is linked to a local branch, allowing you to push and pull 
